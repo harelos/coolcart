@@ -1,0 +1,29 @@
+{
+  "name": "Coolcart — Wait before you buy",
+  "short_name": "Coolcart",
+  "description": "Then buy it. Most days, you won’t — and Coolcart shows you exactly how much you kept.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1F5F7",
+  "theme_color": "#F1F5F7",
+  "categories": [
+    "productivity",
+    "finance",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
